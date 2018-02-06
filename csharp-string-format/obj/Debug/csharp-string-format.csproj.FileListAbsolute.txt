@@ -1,0 +1,6 @@
+D:\claudio\artigos\csharp-string-format\csharp-string-format\bin\Debug\csharp-string-format.exe
+D:\claudio\artigos\csharp-string-format\csharp-string-format\bin\Debug\csharp-string-format.pdb
+D:\claudio\artigos\csharp-string-format\csharp-string-format\obj\Debug\csharp-string-format.csprojResolveAssemblyReference.cache
+D:\claudio\artigos\csharp-string-format\csharp-string-format\obj\Debug\csharp-string-format.csproj.CoreCompileInputs.cache
+D:\claudio\artigos\csharp-string-format\csharp-string-format\obj\Debug\csharp-string-format.exe
+D:\claudio\artigos\csharp-string-format\csharp-string-format\obj\Debug\csharp-string-format.pdb
